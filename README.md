@@ -28,7 +28,7 @@
 ## Informações do meu Github
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorrxi&show_icons=true&theme=radical)
 
 
 ### "Passo a passo. Não consigo pensar em nenhum outro modo de se realizar algo. - Michael Jordan" 
