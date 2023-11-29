@@ -22,7 +22,7 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 
-### Estudo programação desde o inicio de 2022, comecei com lógica de programação, e nessa caminhada de adquirir conhecimento, a melhor forma de aprender sempre foi colocando em prática, alguns desses projetos estão nesse perfil, outros não sobreviveram até eu conhecer as tecnologias de controle de versões e repositório remoto kkkkk. Quando vim a concluir meu ensino médio, passei no curso que queria, Engenharia de Software, e por já está em ritmo de estudo na área, permaneci estudando as tecnologias em plataformas como Udemy, Curso em Vídeo e demais, simultâneo aos da faculdade. Atualmente, sigo em busca de uma vaga de estágio para dev.
+### Estudo programação desde o inicio de 2022, comecei com lógica de programação, e nessa caminhada de adquirir conhecimento, a melhor forma de aprender sempre foi colocando em prática, alguns desses projetos estão nesse perfil, outros não sobreviveram até eu conhecer as tecnologias de controle de versões e repositório remoto kkkkk. Quando vim a concluir meu ensino médio, passei no curso que queria, Engenharia de Software, e por já está em ritmo de estudo na área, permaneci estudando as tecnologias em plataformas como Udemy, Curso em Vídeo e demais, simultâneo aos da faculdade. Atualmente, sigo em busca de uma vaga de desenvolvedor, vamos bater um papo?
 
 
 ## Informações do meu Github
