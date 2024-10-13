@@ -1,13 +1,13 @@
 ## Olá, eu sou o Higor Giovane
 
-### Sou estudante de Engenharia de Software, tenho 18 anos, nascido em Minaçu - Goiás, atualmente morando em Anápolis, jogador nato de fps e amante de tecnologia desde os 10 anos e seu primeiro computador da Positivo.
+### Sou desenvolvedor Full Stack Pleno com aproximadamente 2 anos de experiência e gosto de vivenciar todos os âmbitos das aplicações. Tenho experiência em desenvolvimento web e mobile, atuando em todas as frentes do desenvolvimento e nas etapas posteriores de deploy e monitoramento. Sou uma pessoa curiosa, que busca o aprendizado autônomo, a fim de promover melhorias na vida profissional e pessoal. 
 
 ## Minhas redes sociais
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/higor_m.t)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-giovane-mt/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/higorxi)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/higorgio)
 
 ## Tecnologias estudadas ou em estudo
 <br>
@@ -22,8 +22,9 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 
-### Estudo programação desde o inicio de 2022, comecei com lógica de programação junto ao saudoso mestre Guanabara, e nessa caminhada de adquirir conhecimento, a melhor forma de aprender sempre foi colocando em prática, alguns desses projetos estão nesse perfil, outros não sobreviveram até eu conhecer as tecnologias de controle de versões e repositório remoto kkkkk.
-Quando vim a concluir meu ensino médio, passei no curso que queria, Engenharia de Software, e por já está em ritmo de estudo na área, permaneci estudando as tecnologias em plataformas como Udemy, Curso em Vídeo e demais, simultâneo aos da faculdade. Atualmente, trabalho como desenvolvedor Full Stack Junior em uma fintech, desenvolvendo soluções financeiras de alta robustez e me desafiando a aprender em ritmo acelerado, uma honra participar desse projeto e aprender cada vez mais.
+### Tendo uma atuação em diversos setores dos produtos de software, consigo me adaptar a diversas situações, em ambientes de alta demanda, padrões e regras.
+
+### Tenho como principal missão a busca constante ao máximo de conhecimento, compreendo não ser a pessoa com maior conhecimento prático ou teórico, mas entro no time com a humildade de reconhecer fraquezas e buscar o melhor nivel de produtividade. 
 
 
 ## Informações do meu Github
