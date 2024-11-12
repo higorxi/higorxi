@@ -26,13 +26,6 @@
 
 ### Tenho como principal missão a busca constante ao máximo de conhecimento, compreendo não ser a pessoa com maior conhecimento prático ou teórico, mas entro no time com a humildade de reconhecer fraquezas e buscar o melhor nivel de produtividade. 
 
-
-## Informações do meu Github
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorxi&show_icons=true&theme=radical)
-
-
 ### "Passo a passo. Não consigo pensar em nenhum outro modo de se realizar algo. - Michael Jordan" 
   
 ![Karate_Kid_Lesson_4_Paint_the_Fence](https://github.com/higorxi/higorxi/assets/100055740/410c101d-bf2d-49bb-a8ad-a2818b6b12d4)
